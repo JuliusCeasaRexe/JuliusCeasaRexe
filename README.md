@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Júlio César!
 
-<!--
-**JuliusCeasaRexe/JuliusCeasaRexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação (3º período)  
+💻 Buscando minha primeira oportunidade na área de TI  
+📍 Rio de Janeiro, Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou apaixonado por tecnologia e estou construindo minha base em desenvolvimento de software.  
+Gosto de aprender na prática e estou constantemente desenvolvendo projetos para evoluir minhas habilidades.
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+- HTML, CSS e JavaScript  
+- Python  
+- Banco de Dados (MySQL)  
+- Git e GitHub  
+
+---
+
+## 📂 Projetos 
+- 📌 Site que fiz para empresa GNR Dois Arcos
+- 🔹 Em breve mais projetos por aqui... 
+
+---
+
+## 📈 Objetivo
+Conseguir uma oportunidade de estágio ou vaga júnior para ganhar experiência e crescer na área de tecnologia.
+
+---
+
+## 📫 Contato
+- LinkedIn: ([coloca seu link aqui](https://www.linkedin.com/in/juliocesargvenancio/))
+- Email: (juliocesargvenancio@gmail.com)
+
+---
+
+✨ “Sempre aprendendo e evoluindo um passo de cada vez.”
