@@ -32,7 +32,7 @@ Conseguir uma oportunidade de estágio ou vaga júnior para ganhar experiência 
 ---
 
 ## 📫 Contato
-- LinkedIn: ([coloca seu link aqui](https://www.linkedin.com/in/juliocesargvenancio/))
+- LinkedIn: (https://www.linkedin.com/in/juliocesargvenancio/)
 - Email: (juliocesargvenancio@gmail.com)
 
 ---
